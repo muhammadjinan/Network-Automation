@@ -1,3 +1,3 @@
 # TUPLE
-[x] Tuple is an Array which is ORDERED, UNCHANGABLE
-[x] It allows DUPLICATES
+- Tuple is an 'Array' which is `ORDERED` and `UNCHANGABLE`
+- It `allows DUPLICATE` items
