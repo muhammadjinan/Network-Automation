@@ -4,5 +4,9 @@
 - You can learn Python with me just while looking to the command.
 - Watch the difference in each lines and learn.
 
-## Intention of this Repository
-  This repository is created for self-learners to learn Python and Ansible for Network-Automation
+### Intention of this Repository
+  This repository is created for self-learners to learn Python and Ansible for Network-Automation.
+
+
+> [!NOTE]
+> Dear contributers, let's help the Learners learn Python in a different way.
