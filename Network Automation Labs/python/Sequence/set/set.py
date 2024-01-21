@@ -1,6 +1,7 @@
 Branches={'KONDOTTY','JEDDA','KOCHI','JEDDA'}
 # In this set we have two 'JEDDA' and let's see the output
 print(Branches)
+print(type(Branches))
 # Set consider True as 1 and 1 as True
 # Set consider False as 0 and 0 as False
 # See the command and the output to it
