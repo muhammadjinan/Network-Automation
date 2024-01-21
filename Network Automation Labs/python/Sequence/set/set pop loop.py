@@ -1,7 +1,7 @@
 Branches={'CHENNAI','JEDDA','KOCHI','DELHI','BENGALURU'}
-print('BEGINNING    :',Branches)
-print('Tracker of company status\n'+''.center(66,'-'))
+print('Tracker of company status\n'+''.center(63,'-'))
+print('PRESENT   :',Branches)
 for i in range(len(Branches)):
-    ClosedBr=Branches.pop()
-    print('Closed Branch:',ClosedBr)
-    print('THEN         :',Branches)
+    OpenBr=Branches.pop()
+    print('New Branch:',OpenBr)
+    print('BEGINNING :',Branches)
